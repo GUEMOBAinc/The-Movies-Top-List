@@ -13,3 +13,51 @@
 8. Big Hero 
 9. Tarzan
 10. The Emperor's New Groove 
+
+---
+# FANTASY MOVIES
+---
+1.
+---
+2.
+---
+3.
+---
+4.
+---
+5.
+---
+6.
+---
+7.
+---
+8.
+---
+9.
+---
+10.
+---
+
+---
+# TERROR
+---
+1. THE EXORCIST
+---
+2. INSIDIOUS
+---
+3. SAW
+---
+4. SINISTER
+---
+5. IT
+---
+6. THE DESCENT
+---
+7. REPULSION
+---
+8. THE MIST
+---
+9. IT FOLLOWS
+---
+10. SOCIETY
+---
